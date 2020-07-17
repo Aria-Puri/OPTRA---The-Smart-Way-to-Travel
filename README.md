@@ -85,4 +85,4 @@ b.	Vendor Payment and Receipt System (Monthly Reconciliation System)
 c.	Vendor Penalty System – A charge on the cab driver for violation of rules.
 d.	Vendor Customer and Feedback System – A system for feedback on cab drivers.
 
-NOTE: Currently, the app is still in development and is not ready for application. The above is a description of the app's working.
+NOTE: Currently, the app is still in development and is not ready for application. The above is a description of the app's functioning.
